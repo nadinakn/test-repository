@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: This templates is used for creating new issues that have the type 'Bug report'.
+about: Report a bug or problem occurred in this project.
 title: "[BUG] - 'short description of the bug'"
 labels: bug
 assignees: ''
