@@ -17,6 +17,6 @@
 
 <!-- If necessary describe any other information that is important to this PR such as screenshots of how the component looks before and after the change. -->
 
-## Team members responsible for reviewing proposed changes:
+## Team members responsible for reviewing proposed changes
 <!-- (You can mention a person or team on GitHub by typing @ plus their username or team name. 
 This will trigger a notification and bring their attention to the conversation.) -->
