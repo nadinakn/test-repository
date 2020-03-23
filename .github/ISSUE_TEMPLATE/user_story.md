@@ -1,10 +1,6 @@
 ---
 name: User Story template
 about: This template is used for creating an issue following a consistent process.
-title: ''
-labels: ''
-assignees: ''
-
 ---
 
 ## Context
