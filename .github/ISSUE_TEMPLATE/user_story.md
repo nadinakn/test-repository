@@ -1,3 +1,12 @@
+<!---
+name: User Story template
+about: This template is used for creating an issue following a consistent process.
+title: ''
+labels: ''
+assignees: ''
+
+--->
+
 ## Context
 <!--- Describe the context of the user story in detail. 
 *Example*
